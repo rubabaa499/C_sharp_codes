@@ -1,0 +1,3 @@
+C:\Users\USER\source\repos\Labtask-1\Labtask-1\obj\Release\netcoreapp3.1\Labtask-1.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Labtask-1\Labtask-1\obj\Release\netcoreapp3.1\Labtask-1.AssemblyInfo.cs
+C:\Users\USER\source\repos\Labtask-1\Labtask-1\obj\Release\netcoreapp3.1\Labtask-1.csproj.CoreCompileInputs.cache

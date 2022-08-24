@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\labtsk1\bin\Debug\netcoreapp3.1\labtsk1.exe
+C:\Users\USER\source\repos\labtsk1\bin\Debug\netcoreapp3.1\labtsk1.deps.json
+C:\Users\USER\source\repos\labtsk1\bin\Debug\netcoreapp3.1\labtsk1.runtimeconfig.json
+C:\Users\USER\source\repos\labtsk1\bin\Debug\netcoreapp3.1\labtsk1.runtimeconfig.dev.json
+C:\Users\USER\source\repos\labtsk1\bin\Debug\netcoreapp3.1\labtsk1.dll
+C:\Users\USER\source\repos\labtsk1\bin\Debug\netcoreapp3.1\labtsk1.pdb
+C:\Users\USER\source\repos\labtsk1\obj\Debug\netcoreapp3.1\labtsk1.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\labtsk1\obj\Debug\netcoreapp3.1\labtsk1.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\labtsk1\obj\Debug\netcoreapp3.1\labtsk1.AssemblyInfo.cs
+C:\Users\USER\source\repos\labtsk1\obj\Debug\netcoreapp3.1\labtsk1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\labtsk1\obj\Debug\netcoreapp3.1\labtsk1.dll
+C:\Users\USER\source\repos\labtsk1\obj\Debug\netcoreapp3.1\labtsk1.pdb
+C:\Users\USER\source\repos\labtsk1\obj\Debug\netcoreapp3.1\labtsk1.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\Fool game\Fool game\bin\Debug\netcoreapp3.1\Fool game.exe
+C:\Users\USER\source\repos\Fool game\Fool game\bin\Debug\netcoreapp3.1\Fool game.deps.json
+C:\Users\USER\source\repos\Fool game\Fool game\bin\Debug\netcoreapp3.1\Fool game.runtimeconfig.json
+C:\Users\USER\source\repos\Fool game\Fool game\bin\Debug\netcoreapp3.1\Fool game.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Fool game\Fool game\bin\Debug\netcoreapp3.1\Fool game.dll
+C:\Users\USER\source\repos\Fool game\Fool game\bin\Debug\netcoreapp3.1\Fool game.pdb
+C:\Users\USER\source\repos\Fool game\Fool game\obj\Debug\netcoreapp3.1\Fool game.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Fool game\Fool game\obj\Debug\netcoreapp3.1\Fool_game.Form1.resources
+C:\Users\USER\source\repos\Fool game\Fool game\obj\Debug\netcoreapp3.1\Fool game.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Fool game\Fool game\obj\Debug\netcoreapp3.1\Fool game.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Fool game\Fool game\obj\Debug\netcoreapp3.1\Fool game.AssemblyInfo.cs
+C:\Users\USER\source\repos\Fool game\Fool game\obj\Debug\netcoreapp3.1\Fool game.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Fool game\Fool game\obj\Debug\netcoreapp3.1\Fool game.dll
+C:\Users\USER\source\repos\Fool game\Fool game\obj\Debug\netcoreapp3.1\Fool game.pdb
+C:\Users\USER\source\repos\Fool game\Fool game\obj\Debug\netcoreapp3.1\Fool game.genruntimeconfig.cache
+C:\Users\USER\source\repos\Fool game\Fool game\obj\Debug\netcoreapp3.1\Fool_game.Form2.resources

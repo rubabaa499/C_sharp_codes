@@ -1,0 +1,3 @@
+C:\Users\USER\source\repos\YourName.cs\obj\Debug\netcoreapp3.1\program.cs.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\YourName.cs\obj\Debug\netcoreapp3.1\program.cs.AssemblyInfo.cs
+C:\Users\USER\source\repos\YourName.cs\obj\Debug\netcoreapp3.1\program.cs.csproj.CoreCompileInputs.cache

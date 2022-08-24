@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\myTELL\myTELL\bin\Debug\netcoreapp3.1\myTELL.exe
+C:\Users\USER\source\repos\myTELL\myTELL\bin\Debug\netcoreapp3.1\myTELL.deps.json
+C:\Users\USER\source\repos\myTELL\myTELL\bin\Debug\netcoreapp3.1\myTELL.runtimeconfig.json
+C:\Users\USER\source\repos\myTELL\myTELL\bin\Debug\netcoreapp3.1\myTELL.runtimeconfig.dev.json
+C:\Users\USER\source\repos\myTELL\myTELL\bin\Debug\netcoreapp3.1\myTELL.dll
+C:\Users\USER\source\repos\myTELL\myTELL\bin\Debug\netcoreapp3.1\myTELL.pdb
+C:\Users\USER\source\repos\myTELL\myTELL\obj\Debug\netcoreapp3.1\myTELL.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\myTELL\myTELL\obj\Debug\netcoreapp3.1\myTELL.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\myTELL\myTELL\obj\Debug\netcoreapp3.1\myTELL.AssemblyInfo.cs
+C:\Users\USER\source\repos\myTELL\myTELL\obj\Debug\netcoreapp3.1\myTELL.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\myTELL\myTELL\obj\Debug\netcoreapp3.1\myTELL.dll
+C:\Users\USER\source\repos\myTELL\myTELL\obj\Debug\netcoreapp3.1\myTELL.pdb
+C:\Users\USER\source\repos\myTELL\myTELL\obj\Debug\netcoreapp3.1\myTELL.genruntimeconfig.cache

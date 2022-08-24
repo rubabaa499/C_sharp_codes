@@ -1,0 +1,13 @@
+C:\Users\USER\Documents\inheritencecls\inheritencecls\bin\Debug\netcoreapp3.1\inheritencecls.exe
+C:\Users\USER\Documents\inheritencecls\inheritencecls\bin\Debug\netcoreapp3.1\inheritencecls.deps.json
+C:\Users\USER\Documents\inheritencecls\inheritencecls\bin\Debug\netcoreapp3.1\inheritencecls.runtimeconfig.json
+C:\Users\USER\Documents\inheritencecls\inheritencecls\bin\Debug\netcoreapp3.1\inheritencecls.runtimeconfig.dev.json
+C:\Users\USER\Documents\inheritencecls\inheritencecls\bin\Debug\netcoreapp3.1\inheritencecls.dll
+C:\Users\USER\Documents\inheritencecls\inheritencecls\bin\Debug\netcoreapp3.1\inheritencecls.pdb
+C:\Users\USER\Documents\inheritencecls\inheritencecls\obj\Debug\netcoreapp3.1\inheritencecls.csprojAssemblyReference.cache
+C:\Users\USER\Documents\inheritencecls\inheritencecls\obj\Debug\netcoreapp3.1\inheritencecls.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\inheritencecls\inheritencecls\obj\Debug\netcoreapp3.1\inheritencecls.AssemblyInfo.cs
+C:\Users\USER\Documents\inheritencecls\inheritencecls\obj\Debug\netcoreapp3.1\inheritencecls.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\inheritencecls\inheritencecls\obj\Debug\netcoreapp3.1\inheritencecls.dll
+C:\Users\USER\Documents\inheritencecls\inheritencecls\obj\Debug\netcoreapp3.1\inheritencecls.pdb
+C:\Users\USER\Documents\inheritencecls\inheritencecls\obj\Debug\netcoreapp3.1\inheritencecls.genruntimeconfig.cache

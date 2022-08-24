@@ -1,0 +1,13 @@
+C:\Users\USER\Documents\c#\bin\Debug\netcoreapp3.1\labtsk1.exe
+C:\Users\USER\Documents\c#\bin\Debug\netcoreapp3.1\labtsk1.deps.json
+C:\Users\USER\Documents\c#\bin\Debug\netcoreapp3.1\labtsk1.runtimeconfig.json
+C:\Users\USER\Documents\c#\bin\Debug\netcoreapp3.1\labtsk1.runtimeconfig.dev.json
+C:\Users\USER\Documents\c#\bin\Debug\netcoreapp3.1\labtsk1.dll
+C:\Users\USER\Documents\c#\bin\Debug\netcoreapp3.1\labtsk1.pdb
+C:\Users\USER\Documents\c#\obj\Debug\netcoreapp3.1\labtsk1.csprojAssemblyReference.cache
+C:\Users\USER\Documents\c#\obj\Debug\netcoreapp3.1\labtsk1.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\c#\obj\Debug\netcoreapp3.1\labtsk1.AssemblyInfo.cs
+C:\Users\USER\Documents\c#\obj\Debug\netcoreapp3.1\labtsk1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\c#\obj\Debug\netcoreapp3.1\labtsk1.dll
+C:\Users\USER\Documents\c#\obj\Debug\netcoreapp3.1\labtsk1.pdb
+C:\Users\USER\Documents\c#\obj\Debug\netcoreapp3.1\labtsk1.genruntimeconfig.cache

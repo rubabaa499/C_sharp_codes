@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\iprac\iprac\bin\Debug\netcoreapp3.1\iprac.exe
+C:\Users\USER\source\repos\iprac\iprac\bin\Debug\netcoreapp3.1\iprac.deps.json
+C:\Users\USER\source\repos\iprac\iprac\bin\Debug\netcoreapp3.1\iprac.runtimeconfig.json
+C:\Users\USER\source\repos\iprac\iprac\bin\Debug\netcoreapp3.1\iprac.runtimeconfig.dev.json
+C:\Users\USER\source\repos\iprac\iprac\bin\Debug\netcoreapp3.1\iprac.dll
+C:\Users\USER\source\repos\iprac\iprac\bin\Debug\netcoreapp3.1\iprac.pdb
+C:\Users\USER\source\repos\iprac\iprac\obj\Debug\netcoreapp3.1\iprac.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\iprac\iprac\obj\Debug\netcoreapp3.1\iprac.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\iprac\iprac\obj\Debug\netcoreapp3.1\iprac.AssemblyInfo.cs
+C:\Users\USER\source\repos\iprac\iprac\obj\Debug\netcoreapp3.1\iprac.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\iprac\iprac\obj\Debug\netcoreapp3.1\iprac.dll
+C:\Users\USER\source\repos\iprac\iprac\obj\Debug\netcoreapp3.1\iprac.pdb
+C:\Users\USER\source\repos\iprac\iprac\obj\Debug\netcoreapp3.1\iprac.genruntimeconfig.cache

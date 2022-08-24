@@ -1,0 +1,13 @@
+C:\Users\USER\Documents\ninthQ\ninthQ\bin\Debug\netcoreapp3.1\ninthQ.exe
+C:\Users\USER\Documents\ninthQ\ninthQ\bin\Debug\netcoreapp3.1\ninthQ.deps.json
+C:\Users\USER\Documents\ninthQ\ninthQ\bin\Debug\netcoreapp3.1\ninthQ.runtimeconfig.json
+C:\Users\USER\Documents\ninthQ\ninthQ\bin\Debug\netcoreapp3.1\ninthQ.runtimeconfig.dev.json
+C:\Users\USER\Documents\ninthQ\ninthQ\bin\Debug\netcoreapp3.1\ninthQ.dll
+C:\Users\USER\Documents\ninthQ\ninthQ\bin\Debug\netcoreapp3.1\ninthQ.pdb
+C:\Users\USER\Documents\ninthQ\ninthQ\obj\Debug\netcoreapp3.1\ninthQ.csprojAssemblyReference.cache
+C:\Users\USER\Documents\ninthQ\ninthQ\obj\Debug\netcoreapp3.1\ninthQ.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\ninthQ\ninthQ\obj\Debug\netcoreapp3.1\ninthQ.AssemblyInfo.cs
+C:\Users\USER\Documents\ninthQ\ninthQ\obj\Debug\netcoreapp3.1\ninthQ.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\ninthQ\ninthQ\obj\Debug\netcoreapp3.1\ninthQ.dll
+C:\Users\USER\Documents\ninthQ\ninthQ\obj\Debug\netcoreapp3.1\ninthQ.pdb
+C:\Users\USER\Documents\ninthQ\ninthQ\obj\Debug\netcoreapp3.1\ninthQ.genruntimeconfig.cache

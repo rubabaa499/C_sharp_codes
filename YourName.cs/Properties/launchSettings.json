@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "YourName.cs": {
+      "commandName": "Project"
+    },
+    "program.cs": {
+      "commandName": "Executable"
+    }
+  }
+}
